@@ -3,6 +3,6 @@ Notes:
 
 -To start the journey:
   Go to Menu,
-  Then go to index.
-Links are within each page, but are not easy to find.
+  then go to index.
+Links are within each page, but are not easy to find so make sure to search.
 There are no dead ends
